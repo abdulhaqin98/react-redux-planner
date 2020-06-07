@@ -11,7 +11,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 
   padding: 0;
-  background: url(/img/mario-bg.png);
+  /* background: url(/img/mario-bg.png); */
   background-size: 100%;
   background-position: bottom;
   background-color: #95e8f3;
